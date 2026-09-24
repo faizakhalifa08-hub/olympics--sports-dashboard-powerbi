@@ -1,31 +1,45 @@
-#  Sports Performance Insights with Power BI
+Overview
 
-Welcome to our GitHub repository dedicated to unlocking sports performance insights using Power BI! This repository is your go-to resource for leveraging the power of data analytics to enhance your sports organization's performance. Whether you're tracking medals, analyzing event attendance, or visualizing trends, Power BI has you covered.
+This project demonstrates how Power BI can be used to analyse large sports datasets and present the findings in a simple, decision-friendly format. The dashboard helps users compare country performance, identify high-activity host cities, and understand participation patterns over time.
 
-## Key Features:
+## Dashboard Highlights
 
-  -  Track Medals and Games by Team and Sex: Dive deep into your team's performance by analyzing medals obtained and games played, segmented by team and sex. Identify top-performing teams and areas for improvement.
+- **Medals by team** — Compare medal counts across leading countries and identify top-performing teams.
+- **Events by city** — See which host cities recorded the highest number of events.
+- **Season trends** — Track the distribution of Summer Olympic seasons by Games and year.
+- **Participation by gender** — Visualise the count of sports records by male and female participants.
+- **Interactive visuals** — Use Power BI charts to explore the data from multiple perspectives.
 
-   -  Analyze Event Attendance by City: Understand your fan base better by analyzing event attendance data across different cities. Tailor your marketing efforts to target your largest fan bases effectively.
+## Built With
 
-   -  Drill Down into Specific Data Points: Gain granular insights by drilling down into specific data points. Understand the underlying factors contributing to performance metrics and make informed decisions accordingly.
+- **Microsoft Power BI Desktop** — data modelling, visualisation, and report design
+- **Power BI (.pbix)** — interactive dashboard file
 
-  -  Share Insights with Stakeholders: Create interactive reports and dashboards using Power BI and share them with your team, stakeholders, and fans. Collaborate effectively and keep everyone informed.
+## Getting Started
 
-  -  Visualize Data with Charts and Graphs: Utilize a variety of charts and graphs provided by Power BI to make your data visually appealing and easy to understand. From bar charts to scatter plots, visualize insights effortlessly.
+1. Clone or download this repository.
+2. Open `Sports Dashboard.pbix` in **Power BI Desktop**.
+3. Refresh the data if a data connection is configured.
+4. Explore the visuals and interact with the report.
 
-## Additional Benefits:
+## Project Files
 
-- Affordable Plans: Power BI offers flexible plans to suit your budget, making advanced analytics accessible to sports organizations of all sizes.
-  
-- Built-in Security: Rest assured knowing that your data is secure with Power BI, built on the trusted Microsoft Azure platform.
+| File | Description |
+| --- | --- |
+| `Sports Dashboard.pbix` | The interactive Power BI report. |
+| `Sports Dashboard.png` | A preview of the completed dashboard. |
 
-Unlock the full potential of your sports organization with Power BI. From tracking performance to optimizing marketing strategies, Power BI empowers you to elevate your team's performance to new heights.
+## Insights at a Glance
 
-## Get Started:
+The dashboard makes it easy to answer questions such as:
 
-Clone or fork this repository to access resources, tutorials, and examples on leveraging Power BI for sports performance analytics. Dive into the code and documentation to kickstart your journey towards data-driven insights.
+- Which teams have earned the most medals?
+- Which cities have hosted the most events?
+- How are sports records distributed by gender?
+- How have Summer Games seasons been represented over time?
 
-## Contact Us:
+---
 
-Have questions or need assistance? Feel free to reach out to us for personalized guidance on how Power BI can revolutionize your sports organization's performance. Let's harness the power of data together! 🏆📊
+Built to showcase practical data visualisation, performance analysis, and dashboard design with Power BI.
+
+If you found this project useful, consider giving it a star.
